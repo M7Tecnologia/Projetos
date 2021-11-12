@@ -120,7 +120,7 @@
     "longitude":-46.7420425
   },
   {
-    "key":washington-luiz",
+    "key": "washington-luiz",
     "name": "Washington Luiz",
     "latitude": -23.5154751,
     "longitude":-47.4659084
