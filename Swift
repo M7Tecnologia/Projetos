@@ -89,7 +89,7 @@
     "latitude": -23.5680307,
     "longitude":-46.6579826
   },
-  }
+  {
     "key": "sao-camilo",
     "name": "São Camilo",
     "latitude": -23.5824882,
