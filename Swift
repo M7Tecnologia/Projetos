@@ -1,0 +1,92 @@
+[
+  {
+    "key": "M7",
+    "latitude": -21.19309,
+    "longitude": -47.81671,
+	"name": "Microset"
+  },
+  {
+    "key": "agua-rasa",
+    "latitude": -23.55886,
+    "longitude": -46.56814,
+	"name": "Agua Rasa"
+  },
+  {
+    "key": "bela-vista",
+    "name": "Bela Vista",
+    "latitude": -23.5507731,
+    "longitude": -46.6427171
+  },
+  {
+    "key": "jose-bonifacio",
+    "name": "José Bonifacio",
+    "latitude": -22.8826011,
+    "longitude": -47.0336551
+  },
+  { 
+    "key": "nova-cantareira",  
+    "name": "Nova Cantareira",
+    "latitude": -23.487322,
+    "longitude": -46.6209732
+  },
+  { 
+    "key": "vila-olimpia", 
+    "name": "Vila Olimpia",
+    "latitude": -23.6009488,
+    "longitude": -46.6792634
+  },
+  {
+    "key": "vila-augusta",
+    "name": "Vila Augusta",
+    "latitude": -23.4812299,
+    "longitude": -46.5411886
+  },
+  {
+    "key": "villa-lobos",
+    "name": "Villa Lobos",
+    "latitude": -23.5396096,
+    "longitude": -46.7279539
+  },
+  {
+    "key": "boa-vista",
+    "name": "Boa Vista",
+    "latitude": -23.6424133,
+    "longitude":-46.5619197
+  },
+  { 
+    "key": "norte-sul", 
+    "name": "Campinas Norte Sul",
+    "latitude": -22.8961074,
+    "longitude":-47.0474183
+  },
+  {  
+    "key": "perdizes",
+    "name": "Perdizes 2",
+    "latitude": -23.5346114,
+    "longitude":-46.6694724
+  },
+  {  
+    "key": "jacana",
+    "name": "Jaçana",
+    "latitude": -23.4660555,
+    "longitude":-46.5838036
+  },
+  {  
+    "key": "jundiai",
+    "name": "Jundiai",
+    "latitude": -23.1841987,
+    "longitude":-46.8952635
+  },
+  {  
+    "key": "jd-paulista",
+    "name": "Jd Paulista",
+    "latitude": -23.5832258,
+    "longitude":-46.6686327
+  },
+  {  
+    "key": "pamplona",
+    "name": "Pamplona",
+    "latitude": -23.5680307,
+    "longitude":-46.6579826
+  } 
+]
