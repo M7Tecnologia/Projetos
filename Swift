@@ -88,5 +88,47 @@
     "name": "Pamplona",
     "latitude": -23.5680307,
     "longitude":-46.6579826
-  } 
+  },
+    }
+    "key": "sao-camilo",
+    "name": "São Camilo",
+    "latitude": -23.5824882,
+    "longitude":-46.8381637
+  },
+  {
+    "key": "boqueirao",
+    "name": "Santos Boqueirão",
+    "latitude": -23.9618906,
+    "longitude":-46.3232903
+  },
+  {
+    "key": "bonfiglioli",
+    "name": "Bonfiglioli",
+    "latitude": -23.575334,
+    "longitude":-46.7401808
+  },
+  {
+    "key": "ponta-praia",
+    "name": "Ponta da Praia",
+    "latitude": -23.9852815, 
+    "longitude":-46.3052953
+  },
+  {
+    "key": "portal-morumbi",
+    "name": "Portal Morumbi",
+    "latitude": -23.61521,
+    "longitude":-46.7420425
+  },
+  {
+    "key":washington-luiz",
+    "name": "Washington Luiz",
+    "latitude": -23.5154751,
+    "longitude":-47.4659084
+  },
+  {
+    "key": "carapicuiba",
+    "name": "Carapicuiba",
+    "latitude": -23.5540003,
+    "longitude":-46.8358917
+  }
 ]
