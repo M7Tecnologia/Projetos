@@ -175,7 +175,7 @@
   },
   {
     "key": "piracicaba",
-    "name": "Piracicaba"
+    "name": "Piracicaba",
     "latitude": -22.7325706,
     "longitude":-47.6378365
   },
@@ -204,7 +204,7 @@
     "longitude":-46.5571611
   },
   {
-    "key": "guaipa"
+    "key": "guaipa",
     "name": "Guaipa",
     "latitude": -23.5216826,
     "longitude":-46.734275
