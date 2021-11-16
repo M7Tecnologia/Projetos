@@ -6,13 +6,13 @@
     "name": "Microset"
   },
   {
-    "key": "agua-rasa",
+    "key": "Agua Rasa",
     "latitude": -23.55886,
     "longitude": -46.56814,
     "name": "Agua Rasa"
   },
   {
-    "key": "bela-vista",
+    "key": "Bela Vista",
     "name": "Bela Vista",
     "latitude": -23.5507731,
     "longitude": -46.6427171
