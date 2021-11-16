@@ -130,5 +130,83 @@
     "name": "Carapicuiba",
     "latitude": -23.5540003,
     "longitude":-46.8358917
+  },
+  {
+    "key": "morumbi",
+    "name": "Morumbi 2",
+    "latitude": -23.5880529, 
+    "longitude":-46.7229933
+  },
+  {
+    "key": "zelina",
+    "name": "Vila Zelina",
+    "latitude": -23.59022,
+    "longitude":-46.5742079
+  },
+  {
+    "key": "vila-romana",
+    "name": "Vila Romana",
+    "latitude": -23.5281435, 
+    "longitude":-46.7007241
+  },
+  {
+    "key": "assuncao",
+    "name": "SBC Assunção",
+    "latitude": -23.7208471, 
+    "longitude":-46.5642278
+  },
+  {
+    "key": "vila-prudente",
+    "name": "Vila Prudente",
+    "latitude": -23.5807691,
+    "longitude":-46.5836352
+  },
+  {
+    "key": "maurilio-biagi",
+    "name": "Maurilio Biagi",
+    "latitude": -21.2053325, 
+    "longitude":-47.7924928
+  },
+  {
+    "key": "portugal",
+    "name": "Portugal",
+    "latitude": -23.6655813,
+    "longitude":-46.5338528
+  },
+  {
+    "key": "piracicaba",
+    "name": "Piracicaba"
+    "latitude": -22.7325706,
+    "longitude":-47.6378365
+  },
+  {
+    "key": "vila-andrade",
+    "name": "Vila Andrade",
+    "latitude": -23.6247535,
+    "longitude":-46.7403979
+  },
+  {
+    "key": "prestes-maia",
+    "name": "Prestes Maia",
+    "latitude": -23.7063225,
+    "longitude":-46.5494908
+  },
+  {
+    "key": "barcelona",
+    "name": "Barcelona",
+    "latitude": -23.6203493, 
+    "longitude":-46.5532563
+  },
+  {
+    "key": "timoteo",
+    "name": "Guarulhos Timóteo",
+    "latitude": -23.4548605,
+    "longitude":-46.5571611
+  },
+  {
+    "key": "guaipa"
+    "name": "Guaipa",
+    "latitude": -23.5216826,
+    "longitude":-46.734275
   }
 ]
