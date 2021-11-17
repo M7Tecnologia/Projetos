@@ -18,7 +18,7 @@
     "longitude": -46.6427171
   },
   {
-    "key": "jose-bonifacio",
+    "key": "Jose Bonifacio Loja",
     "name": "José Bonifacio",
     "latitude": -22.8826011,
     "longitude": -47.0336551
@@ -138,7 +138,7 @@
     "longitude":-46.7229933
   },
   {
-    "key": "zelina",
+    "key": "Zelina Loja",
     "name": "Vila Zelina",
     "latitude": -23.59022,
     "longitude":-46.5742079
