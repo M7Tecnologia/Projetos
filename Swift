@@ -168,7 +168,7 @@
     "longitude":-47.7924928
   },
   {
-    "key": "portugal",
+    "key": "Portugal Loja",
     "name": "Portugal",
     "latitude": -23.6655813,
     "longitude":-46.5338528
@@ -198,7 +198,7 @@
     "longitude":-46.5532563
   },
   {
-    "key": "timoteo",
+    "key": "Guarulhos Timoteo Loja",
     "name": "Guarulhos Timóteo",
     "latitude": -23.4548605,
     "longitude":-46.5571611
