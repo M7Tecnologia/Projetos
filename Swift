@@ -208,5 +208,41 @@
     "name": "Guaipa",
     "latitude": -23.5216826,
     "longitude":-46.734275
+  },
+  {
+    "key": "Tajuras Loja",
+    "name": "Tajuras",
+    "latitude": -23.5862667, 
+    "longitude":-46.6964315
+  },
+  { 
+    "key": "Angelica Loja", 
+    "name": "Angelica",
+    "latitude": -23.5425,
+    "longitude":-46.6561817
+  },
+  {  
+    "key": "Mairipora Loja",
+    "name": "Mairipora",
+    "latitude": -23.3196299,
+    "longitude":-46.5905919
+  },
+  { 
+    "key": "Itatiba Loja", 
+    "name": "Itatiba",
+    "latitude": -23.0099911,
+    "longitude":-46.8433403
+  },
+  {  
+    "key": "Alto da Boa Vista Loja",
+    "name": "Alto da Boa Vista",
+    "latitude": -23.6473196,
+    "longitude":-46.7021917
+  },
+  { 
+    "key": "Suzano Loja", 
+    "name": "Suzano",
+    "latitude": -23.5424402,
+    "longitude":-46.3140465
   }
 ]
