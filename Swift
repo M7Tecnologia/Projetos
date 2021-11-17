@@ -48,7 +48,7 @@
     "longitude": -46.7279539
   },
   {
-    "key": "boa-vista",
+    "key": "SCS Boa Vista",
     "name": "Boa Vista",
     "latitude": -23.6424133,
     "longitude":-46.5619197
