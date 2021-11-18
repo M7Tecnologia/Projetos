@@ -252,7 +252,7 @@
     "longitude":-46.6734526
   },
   { 
-    "key": "Alto da Mooca", 
+    "key": "Alto da Mooca Loja", 
     "name": "Alto da mooca",
     "latitude": -23.5544209,
     "longitude":-46.5906251
@@ -268,5 +268,11 @@
     "name": "Salto",
     "latitude": -23.1816387,
     "longitude":-47.3116831
+  },
+  { 
+    "key": "Freguesia Loja",
+    "name": "Freguesia",
+    "latitude": -23.4961374,
+    "longitude":-46.7024809
   }
 ]
