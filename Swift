@@ -292,5 +292,47 @@
     "name": "Mogilar",
     "latitude": -23.5126242,
     "longitude":-46.1808142
+  },
+  { 
+    "key": "Braganca Loja", 
+    "name": "Braganca",
+    "latitude": -22.9650101,
+    "longitude":-46.544301
+  },
+  {  
+    "key": "Ribeirao Pires Loja",
+    "name": "Ribeirao Pires",
+    "latitude": -23.7078069,
+    "longitude":-46.4007179
+  },
+  { 
+    "key": "Frei Caneca Loja", 
+    "name": "Frei Caneca",
+    "latitude": -23.5536037,
+    "longitude":-46.6529152
+  },
+  { 
+    "key": "Milao Loja", 
+    "name": "Milao",
+    "latitude": -16.7092651,
+    "longitude":-49.3230281
+  },
+  { 
+    "key": "Mutirao Loja", 
+    "name": "Mutirao",
+    "latitude": -16.7003777,
+    "longitude":-49.2675643
+  },
+  {  
+    "key": "Damha Loja",
+    "name": "SJRP - Damha",
+    "latitude": -20.7932054,
+    "longitude":-49.3447192
+  },
+  { 
+    "key": "Osasco KM 18 Loja", 
+    "name": "Osasco KM 18",
+    "latitude": -23.5299925,
+    "longitude":-46.7941965
   }
 ]
