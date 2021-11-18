@@ -274,5 +274,23 @@
     "name": "Freguesia",
     "latitude": -23.4961374,
     "longitude":-46.7024809
+  },
+  { 
+    "key": "Itapetininga Loja",
+    "name": "Itapetininga",
+    "latitude": -23.586647,
+    "longitude":-48.0362891
+  },
+  {  
+    "key": "Itanhaem Loja",
+    "name": "Itanhaém",
+    "latitude": -24.1801952,
+    "longitude":-46.7819946
+  },
+  { 
+    "key": "Mogilar Loja", 
+    "name": "Mogilar",
+    "latitude": -23.5126242,
+    "longitude":-46.1808142
   }
 ]
