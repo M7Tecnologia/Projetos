@@ -244,5 +244,29 @@
     "name": "Suzano",
     "latitude": -23.5424402,
     "longitude":-46.3140465
+  },
+  { 
+    "key": "Vila Prudencio Loja",
+    "name": "Jd Prudencio",
+    "latitude": -23.6573988,
+    "longitude":-46.6734526
+  },
+  { 
+    "key": "Alto da Mooca", 
+    "name": "Alto da mooca",
+    "latitude": -23.5544209,
+    "longitude":-46.5906251
+  },
+  {  
+    "key": "Rudge Ramos Loja",
+    "name": "Rudge Ramos",
+    "latitude": -23.6560739,
+    "longitude":-46.5707097
+  },
+  { 
+    "key": "Salto Loja", 
+    "name": "Salto",
+    "latitude": -23.1816387,
+    "longitude":-47.3116831
   }
 ]
