@@ -366,7 +366,7 @@
     "longitude":-46.6661565
   },
   {
-    "key": "dom-pedro"
+    "key": "dom-pedro",
     "name": "Dom Pedro I",
     "latitude": -23.673993,
     "longitude":-46.5131376
