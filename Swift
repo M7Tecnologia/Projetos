@@ -334,5 +334,131 @@
     "name": "Osasco KM 18",
     "latitude": -23.5299925,
     "longitude":-46.7941965
+  },
+  {  
+    "key": "Brooklin",
+    "name": "Brooklin",
+    "latitude": -23.612265,
+    "longitude":-46.6841486
+  },
+  {
+    "key": "Pompeia",
+    "name": "Pompeia",
+    "latitude": -23.5300346,
+    "longitude":-46.6877821
+  },
+  {
+    "key": "sao-francisco",
+    "name": "São Francisco",
+    "latitude": -23.5577546,
+    "longitude":-46.7563519
+  },
+  {
+    "key": "atibaia",
+    "name": "Atibaia",
+    "latitude": -23.1200072,
+    "longitude":-46.5525119
+  },
+  {
+    "key": "oscar-freire",
+    "name": "Oscar Freire",
+    "latitude": -23.5656256,
+    "longitude":-46.6661565
+  },
+  {
+    "key": "dom-pedro"
+    "name": "Dom Pedro I",
+    "latitude": -23.673993,
+    "longitude":-46.5131376
+  },
+  {
+    "key": "planalto-paulista",
+    "name": "Planalto Paulista",
+    "latitude": -23.6058837,
+    "longitude":-46.6490858
+  },
+  {
+    "key": "andalo",
+    "name": "Alberto Andalo",
+    "latitude": -20.8204981,
+    "longitude":-49.3832674
+  },
+  {
+    "key": "chacara-sto-antonio",
+    "name": "Chacara Sto Antonio",
+    "latitude": -23.636237,
+    "longitude":-46.7139206
+  },
+  {
+    "key": "bosque-maia",
+    "name": "Bosque maia",
+    "latitude": -23.457766,
+    "longitude":-46.5305589
+  },
+  {
+    "key": "heitor-penteado",
+    "name": "Heitor Penteado",
+    "latitude": -23.5449751,
+    "longitude":-46.6929072
+  },
+  {
+    "key": "luis-gois",
+    "name": "Luis Gois",
+    "latitude": -23.6040898,
+    "longitude":-46.6332815
+  },
+  {
+    "key": "penha",
+    "name": "Penha",
+    "latitude": -23.5230745,
+    "longitude":-46.5221124
+  },
+  {
+    "key": "pinheiros",
+    "name": "Pinheiros",
+    "latitude": -23.5608667,
+    "longitude":-46.6909358
+  },
+  {
+    "key": "alphaville",
+    "name": "Alphaville",
+    "latitude": -23.5004297,
+    "longitude":-46.859687
+  },
+  {
+    "key": "cambuci",
+    "name": "Cambuci",
+    "latitude": -23.5665318,
+    "longitude":-46.6214755
+  },
+  {
+    "key": "independencia",
+    "name": "RPO Independencia",
+    "latitude": -21.1916214,
+    "longitude":-47.8099292
+  },
+  {
+    "key": "borges-lagoa",
+    "name": "Borges Lagoa",
+    "latitude": -23.5973981,
+    "longitude":-46.6405071
+  },
+  {
+    "key": "serra-japi",
+    "name": "Serra do japi",
+    "latitude": -23.5423378,
+    "longitude":-46.5697519
+  },
+  {
+    "key": "lins-vasconcelos",
+    "name": "Lins de Vasconcelos",
+    "latitude": -23.5799275,
+    "longitude":-46.6242971
+  },
+  {
+    "key": "chacara-inglesa",
+    "name": "Chacara inglesa",
+    "latitude": -23.6043518,
+    "longitude":-46.6264732
   }
 ]
