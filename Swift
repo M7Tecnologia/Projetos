@@ -460,5 +460,17 @@
     "name": "Chacara inglesa",
     "latitude": -23.6043518,
     "longitude":-46.6264732
+  },
+  {
+    "key": "bosque-saude",
+    "name": "Bosque da saude",
+    "latitude": -23.6236432,
+    "longitude":-46.62003
+  },
+  {
+    "key": "campo-belo2",
+    "name": "Campo Belo 2",
+    "latitude": -23.6249018,
+    "longitude":-46.6683026
   }
 ]
