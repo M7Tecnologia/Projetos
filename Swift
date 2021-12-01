@@ -478,11 +478,5 @@
     "name": "Mogi das Cruzes",
     "latitude": -23.5213548,
     "longitude":-46.1807441
-  },
-  {
-    "key": "portugal",
-    "name": "Portugal",
-    "latitude": -23.6655813,
-    "longitude":-46.5338528
-}
+  }
 ]
