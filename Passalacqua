@@ -6,67 +6,67 @@
     "longitude": -47.768492
   },
   {
-    "key": "$1",
+    "key": "$2",
     "name": "Passalacqua-RPO",
     "latitude": -21.180744,
     "longitude": -47.820046
   },
   {
-    "key": "X",
+    "key": "$3",
     "name": "Passalacqua-BH",
     "latitude": -19.912225,
     "longitude": -43.975816
   },
   {
-    "key": "X",
+    "key": "$4",
     "name": "Passalacqua-BH",
     "latitude": -19.936607,
     "longitude": -44.008063
   },
   {
-    "key": "X",
+    "key": "$5",
     "name": "Passalacqua-RPO",
     "latitude": -21.147307,
     "longitude": -47.779711
   },
   {
-    "key": "X",
+    "key": "$6",
     "name": "Passalacqua-Salvador",
     "latitude": -12.879835,
     "longitude": -38.432762
   },
   {
-    "key": "X",
+    "key": "$7",
     "name": "Passalacqua-Franca",
     "latitude": -20.534750,
     "longitude": -47.408894
   },
   {
-    "key": "X",
+    "key": "$8",
     "name": "Passalacqua-Cachoeirinha",
     "latitude": -29.957831,
     "longitude": -51.094960
   },
   {
-    "key": "X",
+    "key": "$9",
     "name": "Passalacqua-Campinas",
     "latitude": -22.962935,
     "longitude": -47.109206
   },
   {
-    "key": "X",
+    "key": "$10",
     "name": "Passalacqua-Londrina",
     "latitude": -23.283621,
     "longitude": -51.211578
   },
   {
-    "key": "X",
+    "key": "$11",
     "name": "Passalacqua-AP-Goiania",
     "latitude": -16.789750,
     "longitude": -49.257135
   },
   {
-    "key": "X",
+    "key": "$12",
     "name": "Passalacqua-BH-DC",
     "latitude": -19.942748,
     "longitude": -44.011328
