@@ -472,5 +472,17 @@
     "name": "Campo Belo 2",
     "latitude": -23.6249018,
     "longitude":-46.6683026
-  }
+  },
+  {
+    "key": "mogi",
+    "name": "Mogi das Cruzes",
+    "latitude": -23.5213548,
+    "longitude":-46.1807441
+  },
+  {
+    "key": "portugal",
+    "name": "Portugal",
+    "latitude": -23.6655813,
+    "longitude":-46.5338528
+}
 ]
