@@ -478,5 +478,11 @@
     "name": "Mogi das Cruzes",
     "latitude": -23.5213548,
     "longitude":-46.1807441
+  },
+  {  
+    "key": "aclimacao-Loja",
+    "name": "Aclimação",
+    "latitude": -23.5701666,
+    "longitude":-46.6355906
   }
 ]
