@@ -486,7 +486,7 @@
     "longitude":-46.6355906
   },
   {
-    "key": "IOT-SWIFT-Campinas-Saudade-1-IOT-004A6F-Loja",
+    "key": "IOT-SWIFT-Campinas-Saudade-1-IOT-004A6F Loja",
     "name": "Campinas Saudade",
     "latitude": -22.920338, 
     "longitude":-47.052684
