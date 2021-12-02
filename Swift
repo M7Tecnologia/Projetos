@@ -484,5 +484,11 @@
     "name": "Aclimação",
     "latitude": -23.5701666,
     "longitude":-46.6355906
+  },
+  {
+    "key": "saudade Loja",
+    "name": "Campinas Saudade",
+    "latitude": -22.920338, 
+    "longitude":-47.052684
   }
 ]
