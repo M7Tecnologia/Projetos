@@ -480,7 +480,7 @@
     "longitude":-46.1807441
   },
   {  
-    "key": "aclimacao-Loja",
+    "key": "IOT-SWIFT-Aclimacao-1-IOT-1A2063-Loja",
     "name": "Aclimação",
     "latitude": -23.5701666,
     "longitude":-46.6355906
