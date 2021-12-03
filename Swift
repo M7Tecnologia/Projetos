@@ -504,7 +504,7 @@
     "longitude":-46.642496
   },
   {
-    "key": "IOT-SWIFT-SANTOS-EMBARÉ-IOT-D7E562-Loja",
+    "key": "IOT-SWIFT-SANTOS-EMBARE-IOT-D7E562-Loja",
     "name": "Embaré",
     "latitude": -23.9750951,
     "longitude":-46.3156645
