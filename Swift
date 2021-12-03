@@ -520,5 +520,23 @@
     "name": "Moema - Jurucê",
     "latitude": -23.6099305,
     "longitude":-46.660494
+  },
+  {
+    "key": "IOT-SWIFT-Saude-1-IOT-6C400C-Loja",
+    "name": "Vila Saúde",
+    "latitude": -23.6168703,
+    "longitude":-46.6363871
+  },
+  {
+    "key": "IOT-SWIFT-CURSINO-IOT-4B6B05-Loja",
+    "name": "Cursino",
+    "latitude": -23.6097773,
+    "longitude":-46.6173
+  },
+  {
+    "key": "IOT-SWIFT-Ipiranga-1-IOT-4F0E41-Loja",
+    "name": "Ipiranga",
+    "latitude": -23.5965884,
+    "longitude":-46.6060271
   }
 ]
