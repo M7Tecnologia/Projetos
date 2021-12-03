@@ -490,5 +490,23 @@
     "name": "Campinas Saudade",
     "latitude": -22.920338, 
     "longitude":-47.052684
+  },
+  {
+    "key": "IOT-SWIFT-PANAMBY-1-IOT-B03A93-Loja",
+    "name": "Panamby",
+    "latitude": -23.6332281, 
+    "longitude":-46.7351751
+  },
+  {
+    "key": "IOT-SWIFT-VILA-MARIANA-1-IOT-591155-Loja"
+    "name": "Vila Mariana",
+    "latitude": -23.58412,
+    "longitude":-46.642496
+  },
+  {
+    "key": "IOT-SWIFT-SANTOS-EMBARÉ-IOT-D7E562-Loja",
+    "name": "Embaré",
+    "latitude": -23.9750951,
+    "longitude":-46.3156645
   }
 ]
