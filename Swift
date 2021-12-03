@@ -508,5 +508,17 @@
     "name": "Embaré",
     "latitude": -23.9750951,
     "longitude":-46.3156645
+  },
+  {
+    "key": "IOT-SWIFT-Sao-Caetano-1-IOT-AE4841-Loja",
+    "name": "São Caetano Centro",
+    "latitude": -23.6173217,
+    "longitude":-46.5679483
+  },
+  {
+    "key": "IOT-SWIFT-Juruce-1-IOT-C3C2A0-Loja",
+    "name": "Moema - Jurucê",
+    "latitude": -23.6099305,
+    "longitude":-46.660494
   }
 ]
