@@ -498,7 +498,7 @@
     "longitude":-46.7351751
   },
   {
-    "key": "IOT-SWIFT-VILA-MARIANA-1-IOT-591155-Loja"
+    "key": "IOT-SWIFT-VILA-MARIANA-1-IOT-591155-Loja",
     "name": "Vila Mariana",
     "latitude": -23.58412,
     "longitude":-46.642496
