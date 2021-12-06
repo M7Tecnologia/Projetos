@@ -610,5 +610,23 @@
     "name": "Dom Pedro II",
     "latitude": -23.6514169, 
     "longitude":-46.5345094
+  },
+  {
+    "key": "taubate",
+    "name": "Valinhos",
+    "latitude": -22.9762043, 
+    "longitude":-46.9992391
+  },
+  {
+    "key": "santos3",
+    "name": "Santos 3",
+    "latitude": -23.9637085, 
+    "longitude":-46.3443467
+  },
+  {
+    "key": "americana",
+    "name": "Americana",
+    "latitude": -22.7522916, 
+    "longitude":-47.3453534
   }
 ]
