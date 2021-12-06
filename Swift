@@ -612,7 +612,7 @@
     "longitude":-46.5345094
   },
   {
-    "key": "taubate",
+    "key": "valinhos",
     "name": "Valinhos",
     "latitude": -22.9762043, 
     "longitude":-46.9992391
