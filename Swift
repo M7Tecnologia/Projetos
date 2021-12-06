@@ -574,5 +574,17 @@
     "name": "Jacarei",
     "latitude": -23.2855958, 
     "longitude":-45.9528368
+  },
+  {
+    "key": "cerro-cora",
+    "name": "Cerro Corá",
+    "latitude": -23.535313,
+    "longitude":-46.713744
+  },
+  {
+    "key": "mooca",
+    "name": "Mooca",
+    "latitude": -23.5680304,
+    "longitude":-46.5898275
   }
 ]
