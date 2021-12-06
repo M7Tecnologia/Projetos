@@ -544,5 +544,35 @@
     "name": "Vila Maria",
     "latitude": -23.506226, 
     "longitude":-46.577575
+  },
+  {
+    "key": "IOT-SWIFT-Klabin-1-IOT-FA6F8B-Loja",
+    "name": "Klabin",
+    "latitude": -23.5890718, 
+    "longitude":-46.6245501
+  },
+  {
+    "key": "IOT-SWIFT-SOROCABA-1-IOT-26760F-Loja",
+    "name": "Sorocaba",
+    "latitude": -23.5009905, 
+    "longitude":-47.4774229
+  },
+  {
+    "key": "IOT-SWIFT-Interlagos-1-IOT-38A032-Loja",
+    "name": "Interlagos",
+    "latitude": -23.6949346,
+    "longitude":-46.7017589
+  },
+  {
+    "key": "SWIFT-MARAJOARA-01-IOT-9A2FA0-Loja",
+    "name": "Marajoara",
+    "latitude": -23.661568, 
+    "longitude":-46.6873537
+  },
+  {
+    "key": "IOT-SWIFT-JACAREI-02-IOT-00B5F7-Loja",
+    "name": "Jacarei",
+    "latitude": -23.2855958, 
+    "longitude":-45.9528368
   }
 ]
