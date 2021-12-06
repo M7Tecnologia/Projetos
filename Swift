@@ -538,5 +538,11 @@
     "name": "Ipiranga",
     "latitude": -23.5965884,
     "longitude":-46.6060271
+  },
+  {
+    "key": "IOT-SWIFT-Vila-Maria-1-IOT-60BAA6-Loja",
+    "name": "Vila Maria",
+    "latitude": -23.506226, 
+    "longitude":-46.577575
   }
 ]
