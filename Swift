@@ -586,5 +586,29 @@
     "name": "Mooca",
     "latitude": -23.5680304,
     "longitude":-46.5898275
+  },
+  {
+    "key": "taubate",
+    "name": "Taubaté",
+    "latitude": -23.0254234,
+    "longitude":-45.5819758
+  },
+  {
+    "key": "rouxinol",
+    "name": "Rouxinol",
+    "latitude": -23.602469, 
+    "longitude":-46.6716061
+  },
+  {
+    "key": "roland",
+    "name": "Roland Garros",
+    "latitude": -23.4778742, 
+    "longitude":-46.5756796
+  },
+  {
+    "key": "Dom-pedro-2",
+    "name": "Dom Pedro II",
+    "latitude": -23.6514169, 
+    "longitude":-46.5345094
   }
 ]
