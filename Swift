@@ -712,5 +712,53 @@
     "name": "Vila Mascote",
     "latitude": -23.6428495,
     "longitude":-46.6657875
+  },
+  {
+    "key": "enseada",
+    "name": "Enseada Guarujá",
+    "latitude": -23.9819563,
+    "longitude":-46.2300957
+  },
+  {
+    "key": "vinhedo",
+    "name": "Vinhedo",
+    "latitude": -23.0329128,
+    "longitude":-46.9870288
+  },
+  {
+    "key": "real-parque",
+    "name": "Real Parque",
+    "latitude": -23.6082603,
+    "longitude":-46.7079964
+  },
+  {
+    "key": "norte-306"
+    "name": "Asa Norte 306",
+    "latitude": -15.768902,
+    "longitude":-47.8880449
+  },
+  {
+    "key": "tambore",
+    "name": "Tamboré",
+    "latitude": -23.4676258,
+    "longitude":-46.8473934
+  },
+  {
+    "key": "bauru",
+    "name": "Bauru",
+    "latitude": -22.332905,
+    "longitude":-49.0692503
+  },
+  {
+    "key": "roque",
+    "name": "São Roque",
+    "latitude": -23.5253077,
+    "longitude":-47.1325087
+  },
+  {
+    "key": "aracatuba",
+    "name": "Araçatuba",
+    "latitude": -21.2254977,
+    "longitude":-50.4369719
   }
 ]
