@@ -629,4 +629,40 @@
     "latitude": -22.7522916, 
     "longitude":-47.3453534
   }
+  {
+    "key": "campo-belo",
+    "name": "Campo Belo",
+    "latitude": -23.621504261010443, 
+    "longitude":-46.67281708799462
+  },
+  {
+    "key": "indaiatuba",
+    "name": "Indaiatuba",
+    "latitude": -23.0800672, 
+    "longitude":-47.2107546
+  },
+  {
+    "key": "piracuama",
+    "name": "Piracuama",
+    "latitude": -23.539607,
+    "longitude":-46.6815174
+  },
+  {
+    "key": "romana",
+    "name": "Vila Romana",
+    "latitude": -23.5281435,
+    "longitude":-46.7007241
+  },
+  {
+    "key": "prestes-maia",
+    "name": "Prestes Maia",
+    "latitude": -23.7063225,
+    "longitude":-46.5494908
+  },
+  {
+    "key": "osasco",
+    "name": "Osasco Autonomistas",
+    "latitude": -23.5373246,
+    "longitude":-46.7783542
+  }
 ]
