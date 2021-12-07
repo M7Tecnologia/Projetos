@@ -732,7 +732,7 @@
     "longitude":-46.7079964
   },
   {
-    "key": "norte-306"
+    "key": "norte-306",
     "name": "Asa Norte 306",
     "latitude": -15.768902,
     "longitude":-47.8880449
