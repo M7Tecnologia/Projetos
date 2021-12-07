@@ -799,7 +799,7 @@
   },
   {
     "key": "ponte-rasa",
-    "name": "Ponte Rasa"
+    "name": "Ponte Rasa",
     "latitude": -23.506482,
     "longitude":-46.4885812
   },
