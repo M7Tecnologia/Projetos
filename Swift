@@ -760,5 +760,77 @@
     "name": "Araçatuba",
     "latitude": -21.2254977,
     "longitude":-50.4369719
+  },
+  {
+    "key": "canto-forte",
+    "name": "Canto do Forte",
+    "latitude": -24.0103048,
+    "longitude":-46.4035174
+  },
+  {
+    "key": "sao-vicente",
+    "name": "São Vicente",
+    "latitude": -23.969903,
+    "longitude":-46.3734211
+  },
+  {
+    "key": "taubate",
+    "name": "Taubaté 2",
+    "latitude": -23.0096485,
+    "longitude":-45.5504899
+  },
+  {
+    "key": "alto-taquaral",
+    "name": "Alto Taquaral",
+    "latitude": -22.864813,
+    "longitude":-47.0535735
+  },
+  {
+    "key": "aquarius",
+    "name": "Aquarius",
+    "latitude": -23.2156912,
+    "longitude":-45.9025981
+  },
+  {
+    "key": "nova-granada",
+    "name": "Nova Granada",
+    "latitude": -23.5403991, 
+    "longitude":-46.7881653
+  },
+  {
+    "key": "ponte-rasa",
+    "name": "Ponte Rasa"
+    "latitude": -23.506482,
+    "longitude":-46.4885812
+  },
+  {
+    "key": "marilia",
+    "name": "Marilia",
+    "latitude": -22.2265393,
+    "longitude":-49.9334934
+  },
+  {
+    "key": "maua",
+    "name": "Praça Maua",
+    "latitude": -23.6467763,
+    "longitude":-46.5766986
+  },
+  {
+    "key": "cd-alphaville",
+    "name": "CD Alphaville",
+    "latitude": -23.5007764,
+    "longitude":-46.859701
+  },
+  {
+    "key": "celso-garcia",
+    "name": "Celso Garcia",
+    "latitude": -23.5345329,
+    "longitude":-46.5681237
+  },
+  {
+    "key": "pauliceia",
+    "name": "Vila Paulicéia",
+    "latitude": -23.4863702,
+    "longitude":-46.6150125
   }
 ]
