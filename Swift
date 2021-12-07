@@ -664,5 +664,53 @@
     "name": "Osasco Autonomistas",
     "latitude": -23.5373246,
     "longitude":-46.7783542
+  },
+  {
+    "key": "106",
+    "name": "Brasilia - Asa sul 106",
+    "latitude": -15.8111322, 
+    "longitude":-47.898
+  },
+  {
+    "key": "andradina",
+    "name": "Andradina",
+    "latitude": -20.8845793,
+    "longitude":-51.3687864
+  },
+  {
+    "key": "itu",
+    "name": "Itu",
+    "latitude": -23.2613009, 
+    "longitude":-47.2947937
+  },
+  {
+    "key": "leopoldina",
+    "name": "Vila Leopoldina",
+    "latitude": -23.5328464,
+    "longitude":-46.7265454
+  },
+  {
+    "key": "anastacio",
+    "name": "Anastácio",
+    "latitude": -23.5002352,
+    "longitude":-46.7340736
+  },
+  {
+    "key": "botucatu",
+    "name": "Botucatu",
+    "latitude": -22.8869059,
+    "longitude":-48.4445978
+  },
+  {
+    "key": "aguas-claras",
+    "name": "Aguas claras",
+    "latitude": -15.8411348,
+    "longitude":-48.0231971
+  },
+  {
+    "key": "mascote",
+    "name": "Vila Mascote",
+    "latitude": -23.6428495,
+    "longitude":-46.6657875
   }
 ]
